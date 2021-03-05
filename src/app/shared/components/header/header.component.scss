@@ -3,12 +3,11 @@
   &__spacer {
     flex: 1 1 auto;
   }
-
   &__menu {
     margin: 0 auto;
-    list-style: none;
     &__elements {
       display: flex;
+      list-style: none;
     }
     &__icon {
       border: 0;
